@@ -62,7 +62,7 @@ defmodule Exgrad.Layer do
   end
 
   defp transpose2([y | ys], xs) do
-``
+
   end
 
 end
